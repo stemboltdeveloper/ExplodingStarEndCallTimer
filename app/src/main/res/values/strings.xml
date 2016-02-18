@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BotSkoolTimePickerTutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructionsTextView">Enter a value in seconds then press start, when it finishes it will hang up the phone, probably..</string>
+    <string name="explode">Fuck this.</string>
+    <string name="explode_text">Fuck you too.</string>
+</resources>
